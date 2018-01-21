@@ -8,7 +8,7 @@ function getIt(){
 }
 
 function frameIt(){
-  $(.tasty).on("load", function (){***("redframe?") })
+  $(.tasty).on("load", function (){*whataheckisthis?*("redframe?") })
 }
 
 
